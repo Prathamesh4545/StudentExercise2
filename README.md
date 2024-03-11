@@ -44,6 +44,7 @@ As per me i'am using multiple ide which is
   so if after you run the application any error occour in lombok you can add lombok executable jar file in your sts(spring tool suite) IDE
 
 # 5th Solution in Postman urls
+  # Note :- This url is only work in postman appliction, so first download postman apk than used as per request.
   # Note :- Id will be set automatic so you can using as per your requirment for now i'am using 202 for id.
   1. Add Student
        # Post Request :-  localhost:8080/addStudent
